@@ -111,7 +111,7 @@
             android:layout_marginTop="@dimen/spacing_extra_large"
             android:indeterminate="true"
             android:visibility="gone"
-            app:indicatorColor="@color/brand_color"
+            app:indicatorColor="@color/brand_primary"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/password"
@@ -138,7 +138,7 @@
             android:onClick="@{()->viewModel.onClickSignUp()}"
             android:text="@string/sign_up"
             android:textAppearance="@style/Regular.Medium.Primary"
-            android:textColor="@color/brand_color"
+            android:textColor="@color/brand_primary"
             app:layout_constraintBottom_toBottomOf="@+id/materialTextView"
             app:layout_constraintStart_toEndOf="@+id/materialTextView"
             app:layout_constraintTop_toTopOf="@+id/materialTextView" />

@@ -56,7 +56,7 @@
             android:textColorHint="@color/shade_ternary_color"
             android:textCursorDrawable="@drawable/color_cursor"
             android:transitionName="search_box"
-            app:drawableTint="@color/brand_color"
+            app:drawableTint="@color/brand_primary"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@id/imagw_back_arrow"
             app:layout_constraintTop_toTopOf="parent">

@@ -152,7 +152,7 @@
             android:layout_marginTop="@dimen/spacing_small"
             android:gravity="center"
             android:text="@{item.genres}"
-            android:textColor="@color/brand_color"
+            android:textColor="@color/brand_primary"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/line"

@@ -53,7 +53,7 @@
                 android:paddingHorizontal="@dimen/spacing_small"
                 android:paddingVertical="@dimen/spacing_small"
                 android:text="@string/logout"
-                android:textColor="@color/brand_color"
+                android:textColor="@color/brand_primary"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/text_confirmation_message" />
