@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="background_color">#03050A</color>
-
     <color name="text_field_background_color">#2B3440</color>
     <color name="slider_gradiant_end_color">#9903050A</color>
-
     <color name="gray">#80737373</color>
-
 
     <!-- New Design System-->
     <color name="background_screen">#121321</color>
