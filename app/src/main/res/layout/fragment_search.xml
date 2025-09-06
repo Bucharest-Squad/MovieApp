@@ -53,7 +53,7 @@
             android:paddingEnd="@dimen/spacing_small"
             android:text="@{viewModel.uiState.searchInput}"
             android:textColor="@color/shade_primary"
-            android:textColorHint="@color/shade_ternary_color"
+            android:textColorHint="@color/shade_tertiary"
             android:textCursorDrawable="@drawable/color_cursor"
             android:transitionName="search_box"
             app:drawableTint="@color/brand_primary"

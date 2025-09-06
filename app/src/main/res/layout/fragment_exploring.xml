@@ -97,7 +97,7 @@
             android:hint="@string/search_hint"
             android:onClick="@{() -> viewModel.onClickSearch()}"
             android:paddingStart="@dimen/spacing_small"
-            android:textColorHint="@color/shade_ternary_color"
+            android:textColorHint="@color/shade_tertiary"
             android:transitionName="search_box"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

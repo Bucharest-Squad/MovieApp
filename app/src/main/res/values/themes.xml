@@ -76,7 +76,7 @@
     </style>
 
     <style name="Regular.Small.ternary">
-        <item name="android:textColor">@color/shade_ternary_color</item>
+        <item name="android:textColor">@color/shade_tertiary</item>
     </style>
 
 

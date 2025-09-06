@@ -120,7 +120,7 @@
             android:onClick="@{() -> viewModel.onClickLogout()}"
             android:paddingVertical="@dimen/spacing_medium"
             android:text="@string/sign_out"
-            android:textColor="@color/shade_ternary_color"
+            android:textColor="@color/shade_tertiary"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/text_rated_movies"
