@@ -73,7 +73,7 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="@dimen/spacing_medium"
             android:text="@{String.valueOf(item.episodeRate)}"
-            android:textColor="@color/yellow"
+            android:textColor="@color/additional_primary_yellow"
             app:layout_constraintBottom_toBottomOf="@+id/text_review"
             app:layout_constraintEnd_toStartOf="@+id/text_review"
             app:layout_constraintHorizontal_bias="0.5"

@@ -46,7 +46,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:mediaPoster="@{item.imageUrl}"
             app:shapeAppearanceOverlay="@style/CardCorners.Medium"
-            tools:background="@color/yellow"
+            tools:background="@color/additional_primary_yellow"
             tools:src="@drawable/test_2" />
 
         <TextView
