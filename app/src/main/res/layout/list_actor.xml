@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:text="@string/title_celebrity"
             tools:text="Celebrities"
-            android:textColor="@color/shade_primary_color"
+            android:textColor="@color/shade_primary"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 

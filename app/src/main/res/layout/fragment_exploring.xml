@@ -217,7 +217,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/spacing_large"
             android:text="@string/trending_today_label"
-            android:textColor="@color/shade_primary_color"
+            android:textColor="@color/shade_primary"
 
             app:doneLoading="@{viewModel.uiState.loading}"
             app:errorNotEmpty="@{viewModel.uiState.error}"

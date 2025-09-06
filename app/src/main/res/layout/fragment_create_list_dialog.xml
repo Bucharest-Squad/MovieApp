@@ -60,7 +60,7 @@
                 android:inputType="textPersonName"
                 android:maxLength="15"
                 android:maxLines="1"
-                android:textColor="@color/shade_primary_color"
+                android:textColor="@color/shade_primary"
                 android:textCursorDrawable="@drawable/color_cursor" />
 
         </com.google.android.material.textfield.TextInputLayout>
