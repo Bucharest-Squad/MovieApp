@@ -62,7 +62,7 @@
     </style>
 
     <style name="Regular.Medium.Secondary">
-        <item name="android:textColor">@color/shade_secondary_color</item>
+        <item name="android:textColor">@color/shade_secondary</item>
     </style>
 
 
@@ -72,7 +72,7 @@
     </style>
 
     <style name="Regular.Small.Secondary">
-        <item name="android:textColor">@color/shade_secondary_color</item>
+        <item name="android:textColor">@color/shade_secondary</item>
     </style>
 
     <style name="Regular.Small.ternary">
@@ -93,7 +93,7 @@
     </style>
 
     <style name="Login" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
-        <item name="android:textColorHint">@color/shade_secondary_color</item>
+        <item name="android:textColorHint">@color/shade_secondary</item>
         <item name="boxBackgroundColor">@color/text_field_background_color</item>
         <item name="boxStrokeWidth">0dp</item>
         <item name="boxStrokeWidthFocused">0dp</item>
@@ -102,7 +102,7 @@
         <item name="boxCornerRadiusBottomStart">@dimen/radius_small</item>
         <item name="boxCornerRadiusBottomEnd">@dimen/radius_small</item>
         <item name="hintTextAppearance">@style/Regular.Medium.Primary</item>
-        <item name="startIconTint">@color/shade_secondary_color</item>
+        <item name="startIconTint">@color/shade_secondary</item>
         <item name="helperTextEnabled">true</item>
         <item name="helperTextTextColor">@color/design_default_color_error</item>
         <item name="errorEnabled">true</item>
@@ -140,7 +140,7 @@
 
     <style name="chipChip" parent="Widget.Material3.Chip.Suggestion">
         <item name="chipStrokeColor">@color/brand_primary</item>
-        <item name="chipSurfaceColor">@color/shade_secondary_color</item>
+        <item name="chipSurfaceColor">@color/shade_secondary</item>
         <item name="chipStrokeWidth">@dimen/cardview_compat_inset_shadow</item>
     </style>
 

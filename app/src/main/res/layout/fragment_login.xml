@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:scaleType="centerCrop"
-            android:shadowColor="@color/shade_secondary_color"
+            android:shadowColor="@color/shade_secondary"
             android:src="@drawable/login_movie"
             app:layout_constraintHeight_percent="0.35"
             app:layout_constraintTop_toTopOf="parent" />
@@ -59,7 +59,7 @@
                 android:inputType="textPersonName"
                 android:maxLines="1"
                 android:afterTextChanged="@{(text) -> viewModel.onUserNameInputChange(text)}"
-                android:textColor="@color/shade_secondary_color"
+                android:textColor="@color/shade_secondary"
 
                 />
         </com.google.android.material.textfield.TextInputLayout>
@@ -74,7 +74,7 @@
             app:helperText="@{viewModel.loginUIState.passwordHelperText}"
             app:layout_constraintTop_toBottomOf="@+id/user_name"
             app:passwordToggleEnabled="true"
-            app:passwordToggleTint="@color/shade_secondary_color"
+            app:passwordToggleTint="@color/shade_secondary"
             app:startIconDrawable="@drawable/ic_key">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -83,7 +83,7 @@
                 android:inputType="textPassword"
                 android:maxLines="1"
                 android:afterTextChanged="@{(text) -> viewModel.onPasswordInputChange(text)}"
-                android:textColor="@color/shade_secondary_color" />
+                android:textColor="@color/shade_secondary" />
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.button.MaterialButton
@@ -116,7 +116,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/password"
             app:isVisible="@{viewModel.loginUIState.loading}"
-            app:trackColor="@color/shade_secondary_color" />
+            app:trackColor="@color/shade_secondary" />
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/materialTextView"

@@ -34,7 +34,7 @@
             android:fontFamily="@font/manrope_regular"
             android:text="@string/explore_some_movies_on_home_or_search_and_then_create_your_movie_list"
             android:textAlignment="center"
-            android:textColor="@color/shade_secondary_color"
+            android:textColor="@color/shade_secondary"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/primary_text" />
@@ -46,8 +46,8 @@
             android:layout_marginHorizontal="@dimen/spacing_medium"
             android:layout_marginTop="@dimen/spacing_large"
             android:hint="@string/list_name"
-            android:textColorHint="@color/shade_secondary_color"
-            app:hintTextColor="@color/shade_secondary_color"
+            android:textColorHint="@color/shade_secondary"
+            app:hintTextColor="@color/shade_secondary"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView5">
