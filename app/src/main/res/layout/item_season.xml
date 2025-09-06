@@ -26,7 +26,7 @@
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:layout_marginVertical="@dimen/spacing_small"
-            android:backgroundTint="@color/card_background_color"
+            android:backgroundTint="@color/background_card"
             android:onClick="@{() -> listener.onClickSeason(item.seasonNumber)}"
             app:cardCornerRadius="@dimen/radius_medium"
             app:cardElevation="0dp"
