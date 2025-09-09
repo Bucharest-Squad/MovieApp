@@ -34,18 +34,16 @@
 
 
     <!-- radius  -->
-    <dimen name="radius_none">0dp</dimen>
     <dimen name="radius_xxsmall">2dp</dimen>
     <dimen name="radius_xsmall">4dp</dimen>
     <dimen name="radius_small">8dp</dimen>
-    <dimen name="radius_medium_small">10dp</dimen>
-    <dimen name="radius_medium">12dp</dimen>
-    <dimen name="radius_large">16dp</dimen>
-    <dimen name="radius_xlarge">20dp</dimen>
-    <dimen name="radius_xxlarge">24dp</dimen>
-    <dimen name="radius_xxxlarge">28dp</dimen>
-    <dimen name="radius_xxxxlarge">32dp</dimen>
-    <dimen name="radius_full">1000dp</dimen>
+    <dimen name="radius_medium">10dp</dimen>
+    <dimen name="radius_large">12dp</dimen>
+    <dimen name="radius_xlarge">16dp</dimen>
+    <dimen name="radius_2large">20dp</dimen>
+    <dimen name="radius_3large">24dp</dimen>
+    <dimen name="radius_4xlarge">28dp</dimen>
+    <dimen name="radius_5xlarge">32dp</dimen>
 
     <!-- chips -->
     <dimen name="chip_height">32dp</dimen>
