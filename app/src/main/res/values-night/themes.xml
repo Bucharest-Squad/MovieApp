@@ -10,6 +10,7 @@
         <item name="android:statusBarColor">@color/background_color</item>
         <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
         <item name="bottomSheetDialogTheme">@style/AppBottomSheetDialogTheme</item>
+        <item name="android:textViewStyle">@style/GlobalTextViewStyle</item>
 
     </style>
 
