@@ -128,7 +128,7 @@
             android:gravity="center"
             android:text="@string/history_label"
             android:textColor="@color/shade_primary"
-            app:drawableStartCompat="@drawable/ic_history"
+            app:drawableStartCompat="@drawable/ic_history_due_tone"
             app:hideWhenListIsEmpty="@{viewModel.uiState.searchHistory}"
             app:hideWhenSearch="@{viewModel.uiState.searchInput}"
             app:layout_constraintStart_toStartOf="@id/imagw_back_arrow"
