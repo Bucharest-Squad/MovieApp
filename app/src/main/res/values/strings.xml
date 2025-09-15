@@ -66,7 +66,7 @@
     <string name="submit_toast">Submitted, Thank you for your feedback</string>
     <string name="total_episodes">%1$s Episodes</string>
     <string name="m">%1$s m</string>
-    <string name="watch_history">Watch History</string>
+    <string name="watch_history">History</string>
     <string name="rated_movies">My Ratings</string>
     <string name="sign_out">Sign Out</string>
     <string name="at">\@</string>
@@ -103,5 +103,8 @@
     <string name="episode_title">%1$d. %2$s</string>
     <string name="season_number">(%1$s Seasons)</string>
     <string name="offline_reconnect">Looks like you\'re offline. Let\'s reconnect so you don\'t miss out!</string>
+    <string name="no_history_yet">No History Yet</string>
+    <string name="no_history_description">It’s quiet in here… Start watching and we’ll keep track for you.</string>
+    <string name="watch_something">Find Something to Watch</string>
 
 </resources>
