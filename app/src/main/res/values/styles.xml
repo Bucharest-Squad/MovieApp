@@ -107,6 +107,13 @@
         <item name="android:textAllCaps">false</item>
     </style>
 
+    <style name="SquircleButton.Secondary">
+        <item name="android:background">@drawable/squircle_button_background_secondary</item>
+        <item name="android:textColor">@color/shade_secondary</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
     <style name="SquircleButton.Regular">
         <item name="android:fontFamily">@font/manrope_regular</item>
         <item name="android:textSize">@dimen/text_size_label_md</item>
